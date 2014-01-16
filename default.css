@@ -1,0 +1,18 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'Lato', sans-serif;
+}
+body{
+	background-color: #B0B0B0;
+	color: #a0a0a0;
+}
+header{
+	padding:20px 0;
+	width: 100%;
+	text-align: center;
+	color: #dc1a22;
+	font-size: 38px;
+	background-color: #595959;
+}
+
